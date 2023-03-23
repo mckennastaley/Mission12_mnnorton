@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iPOoCKrsJRnhjANF9t5w+aqomOOBumTMdadfiIBBEO7UxtrpENoTItS0sYzIxIiojx82MlVCGNVtEA/yNla9A==",
+  "success": true,
+  "projectFilePath": "/Users/mckennastaley/Desktop/Mission12_mnnorton_413/backend/mission12_mnnorton_413/mission12_mnnorton_413.csproj",
+  "expectedPackageFiles": [
+    "/Users/mckennastaley/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mckennastaley/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mckennastaley/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mckennastaley/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mckennastaley/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mckennastaley/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
