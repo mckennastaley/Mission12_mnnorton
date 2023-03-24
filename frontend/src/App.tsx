@@ -14,14 +14,14 @@ interface ITeamProps {
 
 const teamJSON = data;
 
-function Welcome(){
-  return(<h1>Welcome! View NCAA March Madness Information here.</h1>);
+function Welcome() {
+  return (<h1>Welcome! View NCAA March Madness Information here.</h1>);
 }
 
 class Team extends React.Component<ITeamProps> {
   render() {
     const { school, name, city, state } = this.props;
-    
+
     return (
       <Card className="team-card">
         <Card.Body>
@@ -50,12 +50,17 @@ function TeamList() {
   );
 }
 
+function Goodbye() {
+  return (<h1>Thank you for viewing.</h1>);
+}
+
 
 function App() {
-  return(
+  return (
     <div>
-      <Welcome/>
-      <TeamList/>
+      <Welcome />
+      <TeamList />
+      <Goodbye />
     </div>
   )
 }
